@@ -1,0 +1,36 @@
+{
+  "name": "am-utils",
+  "version": "0.1.0",
+  "description": "CSS Utils",
+  "main": "index.css",
+  "dependencies": {
+    "am-align": "^0.1.0",
+    "am-display": "^0.1.1",
+    "am-layout": "^0.1.0",
+    "am-link": "^0.1.1",
+    "am-position": "^0.1.0",
+    "am-size": "^0.1.0",
+    "am-utils-text": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VinSpee/am-utils.git"
+  },
+  "keywords": [
+    "css",
+    "am",
+    "suit",
+    "am-css",
+    "suitcss"
+  ],
+  "author": "Vince Speelman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VinSpee/am-utils/issues"
+  },
+  "homepage": "https://github.com/VinSpee/am-utils"
+}
