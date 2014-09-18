@@ -4,13 +4,13 @@
   "description": "CSS Utils",
   "main": "index.css",
   "dependencies": {
-    "am-align": "*",
-    "am-display": "*",
-    "am-layout": "*",
-    "am-link": "*",
-    "am-position": "*",
-    "am-size": "*",
-    "am-utils-text": "*"
+    "am-align": "latest",
+    "am-display": "latest",
+    "am-layout": "latest",
+    "am-link": "latest",
+    "am-position": "latest",
+    "am-size": "latest",
+    "am-utils-text": "latest"
   },
   "devDependencies": {},
   "scripts": {
